@@ -19,7 +19,7 @@
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="80" height="80" title="Java" />&nbsp;&nbsp;
-  <img src="https://media.licdn.com/dms/image/v2/C4D12AQFhlYow_0XQBA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1571543597550?e=2147483647&v=beta&t=5Tysh47asHLOv7bJHhePJtax3NQ_PoXpoEE85boC8b4" alt="Spring Boot" width="65" height="65" title="Spring Boot" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/600/spring-logo.png" alt="Spring Boot" width="70" height="70" title="Spring Boot" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/?size=512&id=61466&format=png" alt="IntelliJ" width="70" height="70" title="IntelliJ" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="70" height="70" title="PostgreSQL" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="70" height="70" title="Docker" />&nbsp;&nbsp;&nbsp;
