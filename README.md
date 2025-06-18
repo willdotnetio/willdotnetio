@@ -18,12 +18,12 @@
 ### 🚀 Tecnologias que uso
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="80" height="80" title="Java" />&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/600/spring-logo.png" alt="Spring Boot" width="70" height="70" title="Spring Boot" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/?size=512&id=61466&format=png" alt="IntelliJ" width="70" height="70" title="IntelliJ" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="70" height="70" title="PostgreSQL" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="70" height="70" title="Docker" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" alt="GitHub" width="70" height="70" title="GitHub" />&nbsp;&nbsp;&nbsp;
+  <img src="https://images.icon-icons.com/2415/PNG/512/csharp_plain_logo_icon_146577.png" alt="C#" width="75" height="75" title="Csharp" />&nbsp;&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzemPW2zVigKv44mjIDfGwrf_Rgzcyu07m_A&s" alt="Dotnet" width="70" height="70" title="Dotnet" />&nbsp;&nbsp;&nbsp;
+  <img src="https://chris-ayers.com/assets/images/vscode-logo.png" alt="Vscode" width="70" height="70" title="Vscode" />&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="70" height="70" title="PostgreSQL" />&nbsp;&nbsp;&nbsp;
+  <img src="https://miro.medium.com/v2/resize:fit:601/1*e8u6teTHyalPejIBauj4Jw.png" alt="Docker" width="90" height="68" title="Docker" />&nbsp;&nbsp;&nbsp;
+  <img src="https://icon-library.com/images/github-icon-white/github-icon-white-6.jpg" alt="GitHub" width="80" height="80" title="GitHub" />&nbsp;&nbsp;&nbsp;
 </p>
 
 
