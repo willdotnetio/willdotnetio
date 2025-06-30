@@ -21,7 +21,7 @@
   <img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-icone-da-linguagem-de-programacao-java.png" alt="JAVA" width="95" height="95" title="JAVA" />&nbsp;&nbsp;
   <img src="https://img.icons8.com/?size=512&id=90519&format=png" alt="SPRINGBOOT" width="80" height="80" title="SPRINGBOOT" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/?size=512&id=61466&format=png" alt="INTELLIJ" width="80" height="80" title="INTELLIJ" />&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="80" height="80" title="PostgreSQL" />&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="80" height="80" title="PostgreSQL" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://miro.medium.com/v2/resize:fit:601/1*e8u6teTHyalPejIBauj4Jw.png" alt="Docker" width="95" height="78" title="Docker" />&nbsp;&nbsp;&nbsp;
   <img src="https://icon-library.com/images/github-icon-white/github-icon-white-6.jpg" alt="GitHub" width="90" height="90" title="GitHub" />&nbsp;&nbsp;&nbsp;
 </p>
