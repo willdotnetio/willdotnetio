@@ -1,16 +1,16 @@
 <h1 align="center">Olá! Eu sou o William Medeiros 👋</h1>
 
 <p align="center">
-  Desenvolvedor Backend focado em <strong>Java / Spring Boot</strong> <br>
+  Desenvolvedor Backend focado em <strong>C# / .NET</strong> <br>
   Apaixonado por resolver problemas com código e criar soluções inteligentes ⚙️🚀
 </p>
 
 ---
 ### 📌 Sobre mim
 
-- 🎓 Estudante e entusiasta em desenvolvimento backend com Java  
+- 🎓 Estudante e entusiasta em desenvolvimento backend com .NET  
 - 💼 Em busca de oportunidades para aplicar meus conhecimentos em projetos reais  
-- 📚 Atualmente estudando Spring Boot, JPA, API Rest, Spring Security e SQL, além de futuramente melhorar meus conhecimentos em Docker. 
+- 📚 Atualmente estudando C#, ASP.NET, API Rest, Entity Framework e SQL, além de futuramente melhorar meus conhecimentos em Docker. 
 - 🛠️ Sempre aprendendo mais sobre boas práticas, testes e arquitetura de software  
 
 ---
