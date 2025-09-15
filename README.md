@@ -8,7 +8,7 @@
 ---
 ### 📌 Sobre mim
 
-- 🎓 Estudante e entusiasta em desenvolvimento backend com .NET  
+- 🎓 Estudante e entusiasta em desenvolvimento backend com Java  
 - 💼 Em busca de oportunidades para aplicar meus conhecimentos em projetos reais  
 - 📚 Atualmente estudando Java, Spring Boot e SQL, além de futuramente melhorar meus conhecimentos em Docker. 
 - 🛠️ Sempre aprendendo mais sobre boas práticas, testes e arquitetura de software  
