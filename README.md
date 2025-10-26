@@ -1,16 +1,16 @@
 <h1 align="center">Olá! Eu sou o William Medeiros 👋</h1>
 
 <p align="center">
-  Desenvolvedor Backend focado em <strong>Java e Spring Boot</strong> <br>
+  Desenvolvedor Backend focado em <strong>.NET com C# e também low code com Mendix</strong> <br>
   Apaixonado por resolver problemas com código e criar soluções inteligentes ⚙️🚀
 </p>
 
 ---
 ### 📌 Sobre mim
 
-- 🎓 Estudante e entusiasta em desenvolvimento backend com Java  
+- 🎓 Estudante e entusiasta em desenvolvimento backend com o ecossistema .NET e Mendix
 - 💼 Em busca de oportunidades para aplicar meus conhecimentos em projetos reais  
-- 📚 Atualmente estudando Java, Spring Boot e SQL, além de futuramente melhorar meus conhecimentos em Docker. 
+- 📚 Atualmente estudando C#, ASP.NET e SQL, além de futuramente melhorar meus conhecimentos em Docker. 
 - 🛠️ Sempre aprendendo mais sobre boas práticas, testes e arquitetura de software  
 
 ---
@@ -19,9 +19,10 @@
 
 <table align="center">
   <tr>
-    <td><img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-icone-da-linguagem-de-programacao-java.png" alt="Java" width="95" height="95" /></td>
-    <td><img src="https://miro.medium.com/v2/resize:fit:1000/1*AbiX4LwtSNozoyfypcKvEg.png" alt="SpringBoot" width="95" height="95" /></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="IntellijIDE" width="80" height="80" /></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" alt="DOTNET" width="95" height="95" /></td>
+    <td><img src="https://images.icon-icons.com/2415/PNG/512/csharp_plain_logo_icon_146577.png" alt="Csharp" width="95" height="95" /></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/JetBrains_Rider_Icon.svg" alt="RiderIDE" width="80" height="80" /></td>
+    <td><img src="https://www.pyze.com/wp-content/uploads/2021/03/mendix-logo-1.png" alt="Mendix" width="80" height="80" /></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="80" height="80" /></td>
     <td><img src="https://miro.medium.com/v2/resize:fit:601/1*e8u6teTHyalPejIBauj4Jw.png" alt="Docker" width="100" height="80" /></td>
     <td><img src="https://img.icons8.com/m_rounded/512/FFFFFF/github.png" alt="GitHub" width="95" height="95" /></td>
